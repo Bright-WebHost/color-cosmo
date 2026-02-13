@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/color-cosmo/static/css/main.05772812.css",
-    "main.js": "/color-cosmo/static/js/main.58f5c224.js",
+    "main.js": "/color-cosmo/static/js/main.1ecea1b2.js",
     "static/js/453.96226902.chunk.js": "/color-cosmo/static/js/453.96226902.chunk.js",
     "static/media/fa-duotone-900.ttf": "/color-cosmo/static/media/fa-duotone-900.0f2e11ce9677158aeab0.ttf",
     "static/media/fa-thin-100.ttf": "/color-cosmo/static/media/fa-thin-100.68dbc01fde3867384907.ttf",
@@ -25,11 +25,11 @@
     "static/media/plus.svg": "/color-cosmo/static/media/plus.1d47a84b3010141f2d9d.svg",
     "static/media/minus.svg": "/color-cosmo/static/media/minus.bc6c5c03f358ebcfb9ce.svg",
     "main.05772812.css.map": "/color-cosmo/static/css/main.05772812.css.map",
-    "main.58f5c224.js.map": "/color-cosmo/static/js/main.58f5c224.js.map",
+    "main.1ecea1b2.js.map": "/color-cosmo/static/js/main.1ecea1b2.js.map",
     "453.96226902.chunk.js.map": "/color-cosmo/static/js/453.96226902.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05772812.css",
-    "static/js/main.58f5c224.js"
+    "static/js/main.1ecea1b2.js"
   ]
 }
