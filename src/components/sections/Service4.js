@@ -9,7 +9,7 @@ export default function Service4() {
       icon: "fa-sharp fa-solid fa-swatchbook",
       features: ["Advanced Color Technology", "Consistent Results", "All Materials Supported"],
       gradient: "linear-gradient(135deg, #4A136E, #2A9DF4)",
-      image: "assets/img/allimg/service/1.webp",
+      image: "assets/img/allimg/service/155.webp",
       link: "/contact"
     },
     {
@@ -19,7 +19,7 @@ export default function Service4() {
       icon: "fa-solid fa-paintbrush-pencil",
       features: ["Tailored Formulations", "Eco-Friendly Options", "Enhanced Durability"],
       gradient: "linear-gradient(135deg, #4CAF50, #2196F3)",
-      image: "assets/img/allimg/service/2.webp",
+      image: "assets/img/allimg/service/156.webp",
       link: "/contact"
     },
     {
